@@ -7,7 +7,7 @@ Este repositório contém os meus projetos de Front-end, onde são aplicadas tec
 - [projeto-glass-html5 (Front-end 2)](https://github.com/FelixFreitasJr/projeto-glass-html5) 
 - [Projeto HTML 1](https://github.com/felixfreitasjr/projeto-html1) 
 - [Projeto Satélite(CSS)](https://github.com/FelixFreitasJr/satelite) 
-- [Projeto Calculadora(Javascript)](https://github.com/BacoIpswich/calculadora)
+- [Projeto Calculadora(Javascript)](https://github.com/FelixFreitasjr/calculadora)
 
 ## Tecnologias Utilizadas
 - HTML
