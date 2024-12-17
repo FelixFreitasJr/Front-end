@@ -3,11 +3,11 @@
 Este repositório contém os meus projetos de Front-end, onde são aplicadas tecnologias como HTML, CSS, e JavaScript para criar interfaces de usuário interativas e responsivas.
 
 ## Projetos
-- [Projeto Front-end 1](https://github.com/felixfreitasjr/projeto-frontend1)
-- [Projeto Front-end 2](https://github.com/felixfreitasjr/projeto-frontend2)
-- [Projeto HTML 1](https://github.com/felixfreitasjr/projeto-html1)
-- [Projeto CSS 1](https://github.com/felixfreitasjr/projeto-css1)
-- [Projeto JavaScript 1](https://github.com/felixfreitasjr/projeto-js1)
+- [Projeto Freitas Eletricista (Front-end 1)](https://github.com/FelixFreitasJr/Projeto-Freitas-eletricista)
+- [projeto-glass-html5 (Front-end 2)](https://github.com/FelixFreitasJr/projeto-glass-html5) 
+- [Projeto HTML 1](https://github.com/felixfreitasjr/projeto-html1) 
+- [Projeto Satélite(CSS)](https://github.com/FelixFreitasJr/satelite) 
+- [Projeto Calculadora(Javascript)](https://github.com/BacoIpswich/calculadora)
 
 ## Tecnologias Utilizadas
 - HTML
